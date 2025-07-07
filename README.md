@@ -9,3 +9,9 @@ Generatore di suoni bassi dai 25 Hz ai 250 Hz.
 Utile per mascherare il suono e creare un suono uniforme di rumore rosa per cani e bambini.
 Clicca su START per generare suono.
 Clicca su STOP per fermare il suono.
+
+# How to use / Come usarlo
+python main.py
+
+# Libraries / Librerie
+
