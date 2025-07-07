@@ -14,4 +14,10 @@ Clicca su STOP per fermare il suono.
 python main.py
 
 # Libraries / Librerie
+> pip install pygame
+> pip install numpy
+> pip install scipy
+
+Linux:
+> sudo apt-get install python3-tk
 
