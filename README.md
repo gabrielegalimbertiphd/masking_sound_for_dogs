@@ -10,12 +10,30 @@ Utile per mascherare il suono e creare un suono uniforme di rumore rosa per cani
 Clicca su START per generare suono.
 Clicca su STOP per fermare il suono.
 
-# How to use / Come usarlo
-python main.py
+# Come usarlo
+> python main.py
+
+Si aprirà una finestra con controlli per:
+- Avviare il rumore
+- Fermare il rumore
+- Regolare il volume
+- Cambiare la frequenza di taglio alta del filtro passa banda
+
+
+# How to use it
+> python main.py
+
+A window will be opened with controls for:
+- Start the sound
+- Stop the sound
+- Adjust the volume
+- Change the high cut-off frequency of the band pass filter
 
 # Libraries / Librerie
 > pip install pygame
+> 
 > pip install numpy
+> 
 > pip install scipy
 
 Linux:
